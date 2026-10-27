@@ -11,5 +11,7 @@ A scroll-driven hero section built with React, Vite, Tailwind CSS and GSAP (Scro
 - Responsive layout
 
 ## Run locally
+```bash
 npm install
 npm run dev
+```
